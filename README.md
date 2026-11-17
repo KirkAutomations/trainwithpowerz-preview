@@ -1,6 +1,8 @@
-# Powerz On static site
+# Powerz On static site — v1.1
 
 Production-ready, no-framework one-page site for Powerz On.
+
+Version 1.1 removes numbered card and process motifs in favor of a more natural editorial presentation.
 
 ## Files
 
